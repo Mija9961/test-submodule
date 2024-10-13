@@ -1,3 +1,6 @@
 [submodule "dmf"]
 	path = cms/dmf
 	url = https://github.com/Mija9961/dmf.git
+[submodule "hmf"]
+	path = cms/hmf
+	url = https://github.com/Mija9961/hmf.git
