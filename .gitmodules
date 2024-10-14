@@ -4,3 +4,6 @@
 [submodule "hmf"]
 	path = cms/hmf
 	url = https://github.com/Mija9961/hmf.git
+[submodule "eao"]
+	path = cms/eao
+	url = https://github.com/Mija9961/eao.git
